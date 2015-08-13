@@ -1,0 +1,67 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="KnowledgeShare.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Knowledge Share" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Issue Details" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <Button Content="Home" Height="71" Name="button1" Width="160" Background="DarkRed" Click="button1_Click" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" Background="#FF121314">
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="117,19,0,0" Name="textBlock1" Text="Provide the solution here" VerticalAlignment="Top" Foreground="#FFDFE0E8" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="59,95,0,0" Name="textBlock2" Text="Name" VerticalAlignment="Top" Foreground="#FFDCDEEB"/>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="59,138,0,0" Name="textBlock3" Text="ZID" VerticalAlignment="Top" Foreground="#FFE9EAF8"/>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="61,334,0,0" Name="textBlock4" Text="Course" VerticalAlignment="Top" Foreground="#FFDCDEEB"/>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="59,194,0,0" Name="textBlock5" Text="Email" VerticalAlignment="Top" Foreground="#FFE6E7F2"/>
+
+            <Button Content="Submit" Height="72" HorizontalAlignment="Left" Margin="179,464,0,0" Name="button2" VerticalAlignment="Top" Width="160" Background="#FF000A80" Click="button2_Click" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="61,405,0,0" Name="textBlock6" Text="Solution" VerticalAlignment="Top" Foreground="#FFE9E9F2" />
+            <TextBox Height="97" HorizontalAlignment="Left" Margin="154,375,0,0" Name="textBox4" Text="" VerticalAlignment="Top" Width="275" />
+
+            
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="166,95,0,0" Name="textBlock7" Text="{Binding FirstName}" VerticalAlignment="Top" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="166,138,0,0" Name="textBlock8" Text="{Binding Zid}" VerticalAlignment="Top" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="154,194,0,0" Name="textBlock9" Text="{Binding Email}" VerticalAlignment="Top" />
+          
+           <TextBlock Height="30" HorizontalAlignment="Left" Margin="59,266,0,0" Name="textBlock12" Text="Problem" VerticalAlignment="Top" Foreground="#FFE2E3E8"/>
+            <TextBlock Height="74" HorizontalAlignment="Left" Margin="166,246,0,0" Name="textBlock13" Text="{Binding ProblemDescription}" VerticalAlignment="Top" Width="284" />
+            <TextBlock Height="35" HorizontalAlignment="Left" Margin="166,334,0,0" Name="textBlock14" Text="{Binding Course}" VerticalAlignment="Top" Width="173" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="47,55,0,0" Name="textBlock11" Text="" VerticalAlignment="Top" Width="403" Foreground="Red" />
+        </Grid>
+        
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

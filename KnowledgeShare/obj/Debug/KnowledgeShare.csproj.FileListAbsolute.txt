@@ -1,0 +1,73 @@
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\ApplicationIcon.png
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\Background.png
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.dll
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.pdb
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\AppManifest.xaml
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.xap
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\ResolveAssemblyReference.cache
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\App.g.i.cs
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\DetailsPage.g.i.cs
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\MainPage.g.i.cs
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.g.resources
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.dll
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.pdb
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\XapCacheFile.xml
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\prashanth\documents\visual studio 2010\Projects\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\Menu.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\EnrollExpert.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\ProblemSubmission.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\SignUp.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\ExpertCourses.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\IssueDetails.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\Solution.g.i.cs
+C:\Users\Prashanth\Documents\Visual Studio 2010\Projects\KnowledgeShare\KnowledgeShare\obj\Debug\ViewSolutions.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\ApplicationIcon.png
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Background.png
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.pdb
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\AppManifest.xaml
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\KnowledgeShare.xap
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.csprojResolveAssemblyReference.cache
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\App.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\DetailsPage.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\ExpertCourses.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\MainPage.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\Menu.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\EnrollExpert.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\IssueDetails.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\ProblemSubmission.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\SignUp.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\ViewSolutions.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.g.resources
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\KnowledgeShare.pdb
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\XapCacheFile.xml
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\SolutionDetailPage.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\obj\Debug\ProvideSolution.g.i.cs
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Laxman\KnowledgeShare\KnowledgeShare\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
